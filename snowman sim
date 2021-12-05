@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExtremeAntonis/KeySystemUI/main/KeySystemUI-Obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ketamo/promo/main/promo"))()
